@@ -1,0 +1,52 @@
+XH
+H 3 areas 10 global symbols
+M digbuf_1.asm
+A text size 0 flags 0
+dbfile lib/digbuf_1.asm
+dbfunc 0 ? 0 I
+dbfile DigBuf_1.inc
+dbfunc 0 ? 0 I
+dbfile C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc
+dbfunc 0 ? 0 I
+dbfile ./lib/DigBuf_1.inc
+dbfunc 0 ? 0 I
+dbfile lib/digbuf_1.asm
+dbfunc 0 ? 0 I
+dbfile memory.inc
+dbfunc 0 ? 0 I
+dbfile lib/digbuf_1.asm
+dbfunc 0 ? 0 I
+dbfile C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc
+dbfunc 0 ? 0 I
+A bss size 0 flags 20
+A UserModules size 10 flags 0
+dbfile lib/digbuf_1.asm
+dbfunc 0 ? 0 I
+dbline 2 0
+dbline 4D 3
+dbline 2 4
+dbline 68 7
+dbline 2 8
+dbline 82 B
+dbline 2 C
+dbline 9C F
+S $sb$DigBuf_1_DisableInt Def0004
+S $se$DigBuf_1_DisableInt Def0008
+S _DigBuf_1_Stop Def000C
+S DigBuf_1_Start Def0008
+S $sb$DigBuf_1_Start Def0008
+S $se$DigBuf_1_Start Def000C
+S _DigBuf_1_DisableInt Def0004
+S _DigBuf_1_Start Def0008
+S DigBuf_1_EnableInt Def0000
+S $sb$DigBuf_1_EnableInt Def0000
+S $se$DigBuf_1_EnableInt Def0004
+S DigBuf_1_Stop Def000C
+S $sb$DigBuf_1_Stop Def000C
+S $se$DigBuf_1_Stop Def0010
+S _DigBuf_1_EnableInt Def0000
+S DigBuf_1_DisableInt Def0004
+T 00 00 43 DF 01 7F 41 DF FE 7F 43 43 01 7F 41 43
+R 00 00 00 02
+T 00 0E FE 7F
+R 00 00 00 02

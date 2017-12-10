@@ -1,0 +1,74 @@
+# DO NOT DELETE
+./obj/boot.o : \
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8ssc.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\lib\GLOBAL~1.INC\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./obj/main.o :  ./lib/ADCINC_1.h ./lib/AMUX4_1.h ./lib/DigBuf_1.h\
+   ./lib/PGA_1.h ./lib/PSoCAPI.h ./lib/PSOCGP~1.H ./lib/PWM16_1.h\
+   ./lib/PWM8_1.h ./lib/PWM8_2.h ./lib/TX8_1.h ./lib/TIMER1~1.H\
+   ./lib/TIMER1~2.H\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/M8C.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/_const.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/limits.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/stdarg.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/stdio.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/stdlib.h\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/string.h
+./lib/obj/adcinc_1.o :  ./lib/ADCINC_1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./lib/obj/adcinc_1int.o :  ./lib/ADCINC_1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./lib/obj/amux4_1.o :  ./lib/AMUX4_1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./lib/obj/digbuf_1.o :  ./lib/DigBuf_1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./lib/obj/digbuf_1int.o : \
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./lib/obj/pga_1.o :  ./lib/PGA_1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./lib/obj/psocconfig.o :  ./lib/GLOBAL~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./lib/obj/psocconfigtbl.o : \
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc
+./lib/obj/psocgpioint.o :  ./lib/PSOCGP~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc
+./lib/obj/pwm16_1.o :  ./lib/PWM16_1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./lib/obj/pwm16_1int.o :  ./lib/PWM16_1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./lib/obj/pwm8_1.o :  ./lib/PWM8_1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./lib/obj/pwm8_1int.o :  ./lib/PWM8_1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./lib/obj/pwm8_2.o :  ./lib/PWM8_2.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./lib/obj/timer16_1.o :  ./lib/TIMER1~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./lib/obj/timer16_1int.o :  ./lib/TIMER1~1.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./lib/obj/timer16_2.o :  ./lib/TIMER1~2.INC\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./lib/obj/tx8_1.o :  ./lib/TX8_1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./lib/obj/tx8_1int.o :  ./lib/TX8_1.inc\
+   C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc\
+   C:\DOCUME~1\KKP_E2\MYDOCU~1\PSOCDE~1.2PR\TIME_T~2\TIME_T~1\TIME_T~1\TIME_T~1\memory.inc
+./lib/obj/tx8_1plus.o : 

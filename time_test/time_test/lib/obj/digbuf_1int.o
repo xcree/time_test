@@ -1,0 +1,22 @@
+XH
+H 3 areas 2 global symbols
+M digbuf_1int.asm
+S _My_gpio_p2_6 Ref0000
+A text size 0 flags 0
+dbfile lib/digbuf_1int.asm
+dbfunc 0 ? 0 I
+dbfile memory.inc
+dbfunc 0 ? 0 I
+dbfile lib/digbuf_1int.asm
+dbfunc 0 ? 0 I
+dbfile C:/PROGRA~1/Cypress/PSOCDE~1/5.2/Common/CY3E64~1/tools/include/CY8C29~1/m8c.inc
+dbfunc 0 ? 0 I
+A InterruptRAM size 0 flags 20
+A UserModules size 4 flags 0
+dbfile lib/digbuf_1int.asm
+dbfunc 0 ? 0 I
+dbline 4F 0
+dbline 58 3
+S _DigBuf_1_ISR Def0000
+T 00 00 7D 00 00 7E
+R 00 00 00 02 02 03 00 00
